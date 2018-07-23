@@ -1,6 +1,6 @@
 # Knowledge distillation with Chainer
 
-A simple Chainer implementation of Hinton's knowledge distillation (KD)ary
+A simple Chainer implementation of Hinton's knowledge distillation(KD).
 
 ## Requirements
 * Python 3.5
